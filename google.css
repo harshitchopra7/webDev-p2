@@ -1,0 +1,9 @@
+.header_container {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.header_container > p, .header_container > img {
+    margin-left: 7px;
+}
